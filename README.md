@@ -1,5 +1,4 @@
 # Newswala
-[![Latest News](https://img.shields.io/badge/Latest_News-Always_Fresh-brightgreen)](https://news.google.com/)
 
 Newswala is a modern mobile application designed to deliver the latest news updates right at your fingertips. Built with simplicity and efficiency in mind, this app fetches and displays real-time news content from reliable sources, making it easy for users to stay informed on current events.
 
