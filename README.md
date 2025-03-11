@@ -30,6 +30,7 @@ Follow these steps to set up Newswala on your local machine for development and 
       cd Newswala
     ```
 2. **Install dependencies:**
+   
     Using npm:
   
     ```bash
@@ -40,7 +41,7 @@ Follow these steps to set up Newswala on your local machine for development and 
     ```bash
     yarn install
     ```
-3. **Run the application:**
+4. **Run the application:**
   
   For Android:
     ```bash
