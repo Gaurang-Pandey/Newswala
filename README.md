@@ -25,32 +25,32 @@ Follow these steps to set up Newswala on your local machine for development and 
 
 1. **Clone the repository:**
 
-  ```bash
-    git clone https://github.com/Gaurang-Pandey/Newswala.git
-    cd Newswala
-  ```
+    ```bash
+      git clone https://github.com/Gaurang-Pandey/Newswala.git
+      cd Newswala
+    ```
 2. **Install dependencies:**
 
   Using npm:
   
     ```bash
     npm install
-  ```
+    ```
     Or with yarn:
   
-  ```bash
-  yarn install
-  ```
-  3. **Run the application:**
+    ```bash
+    yarn install
+    ```
+3. **Run the application:**
   
   For Android:
-  ```bash
-  npm run android
-  ```
+    ```bash
+    npm run android
+    ```
   For iOS:
-  ```bash
-  npm run ios
-  ```
+    ```bash
+    npm run ios
+    ```
 
 ## Project Structure
 
@@ -80,13 +80,13 @@ Contributions are welcome! If you'd like to improve Newswala, please follow thes
 
 1. Fork the repository.
 2 .Create a new branch:
-```bash
-git checkout -b feature/YourFeature
-```
+    ```bash
+    git checkout -b feature/YourFeature
+    ```
 3. Commit your changes:
-```bash
-git commit -am 'Add some feature'
-```
+    ```bash
+    git commit -am 'Add some feature'
+    ```
 4. Push the branch:
 ```bash
 git push origin feature/YourFeature
