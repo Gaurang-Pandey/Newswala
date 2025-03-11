@@ -71,9 +71,11 @@ Newswala/
 ├── package.json       # Project metadata and dependencies
 
 ## Customization
-API Integration: Customize the API endpoints to connect with your preferred news data provider.
-UI Tweaks: Modify components in the components folder to tailor the look and feel of your app.
-New Features: Add new screens or functionalities by extending the existing project structure.
+• API Integration: Customize the API endpoints to connect with your preferred news data provider.
+
+• UI Tweaks: Modify components in the components folder to tailor the look and feel of your app.
+
+• New Features: Add new screens or functionalities by extending the existing project structure.
 
 ## Contributing
 Contributions are welcome! If you'd like to improve Newswala, please follow these steps:
