@@ -31,36 +31,43 @@ Follow these steps to set up Newswala on your local machine for development and 
   ```
 2. **Install dependencies:**
 
-Using npm:
-
+  Using npm:
+  
+    ```bash
+    npm install
+  ```
+    Or with yarn:
+  
   ```bash
-  npm install
-```
-  Or with yarn:
-
-```bash
-yarn install
-```
-3. **Run the application:**
-
-For Android:
-```bash
-npm run android
-```
-For iOS:
-```bash
-npm run ios
-```
+  yarn install
+  ```
+  3. **Run the application:**
+  
+  For Android:
+  ```bash
+  npm run android
+  ```
+  For iOS:
+  ```bash
+  npm run ios
+  ```
 
 ## Project Structure
 
 Newswala/
+
 ├── assets/            # Contains images and static files
+
 ├── components/        # Reusable UI components
+
 ├── navigation/        # Navigation configurations and routes
+
 ├── screens/           # Application screens and views
+
 ├── App.js             # Main application entry point
+
 ├── index.js           # App bootstrap file
+
 ├── package.json       # Project metadata and dependencies
 
 ## Customization
