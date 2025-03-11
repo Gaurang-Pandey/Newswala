@@ -15,11 +15,9 @@ Newswala is a modern mobile application designed to deliver the latest news upda
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![Node.js](https://img.shields.io/badge/Node.js-Node.js-green?logo=node.js)](https://nodejs.org/)  
 [![npm](https://img.shields.io/badge/npm-npm-red)](https://www.npmjs.com/)  
-[![Yarn](https://img.shields.io/badge/Yarn-Yarn-blue?logo=yarn)](https://classic.yarnpkg.com/)  
 [![React Navigation](https://img.shields.io/badge/React_Navigation-React_Navigation-blue)](https://reactnavigation.org/)  
-[![Git](https://img.shields.io/badge/Git-Git-orange?logo=git)](https://git-scm.com/)  
-[![Android Studio](https://img.shields.io/badge/Android_Studio-Android_Studio-blue?logo=android)](https://developer.android.com/studio)  
-[![Xcode](https://img.shields.io/badge/Xcode-Xcode-blue?logo=xcode)](https://developer.apple.com/xcode/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-Android_Studio-blue?logo=android)](https://developer.android.com/studio)
+[![Expo](https://img.shields.io/badge/Expo-Expo-blue?logo=expo)](https://expo.dev/)
 
 
 ## Getting Started
