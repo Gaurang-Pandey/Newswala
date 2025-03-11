@@ -17,7 +17,6 @@ Newswala is a modern mobile application designed to deliver the latest news upda
 [![npm](https://img.shields.io/badge/npm-npm-red)](https://www.npmjs.com/)  
 [![React Navigation](https://img.shields.io/badge/React_Navigation-React_Navigation-blue)](https://reactnavigation.org/)  
 [![Android Studio](https://img.shields.io/badge/Android_Studio-Android_Studio-blue?logo=android)](https://developer.android.com/studio)
-
 [![Expo](https://img.shields.io/badge/Expo-Expo-blue?logo=expo)](https://expo.dev/)
 
 
