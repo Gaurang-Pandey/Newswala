@@ -7,8 +7,20 @@ Newswala is a modern mobile application designed to deliver the latest news upda
 - **Latest News:** Access up-to-date articles from trusted news providers.
 - **User-Friendly Interface:** Navigate seamlessly through an intuitive and clean design.
 - **Multiple Categories:** Browse news across various categories such as politics, technology, sports, entertainment, and more.
-- **Search Functionality:** Quickly find articles by keyword or topic.
 - **Responsive Design:** Optimized for a range of devices and screen sizes.
+
+## Technologies Used
+
+[![React Native](https://img.shields.io/badge/React_Native-React_Native-blue)](https://reactnative.dev/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Node.js](https://img.shields.io/badge/Node.js-Node.js-green?logo=node.js)](https://nodejs.org/)  
+[![npm](https://img.shields.io/badge/npm-npm-red)](https://www.npmjs.com/)  
+[![Yarn](https://img.shields.io/badge/Yarn-Yarn-blue?logo=yarn)](https://classic.yarnpkg.com/)  
+[![React Navigation](https://img.shields.io/badge/React_Navigation-React_Navigation-blue)](https://reactnavigation.org/)  
+[![Git](https://img.shields.io/badge/Git-Git-orange?logo=git)](https://git-scm.com/)  
+[![Android Studio](https://img.shields.io/badge/Android_Studio-Android_Studio-blue?logo=android)](https://developer.android.com/studio)  
+[![Xcode](https://img.shields.io/badge/Xcode-Xcode-blue?logo=xcode)](https://developer.apple.com/xcode/)
+
 
 ## Getting Started
 
