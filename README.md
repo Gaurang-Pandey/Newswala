@@ -30,8 +30,7 @@ Follow these steps to set up Newswala on your local machine for development and 
       cd Newswala
     ```
 2. **Install dependencies:**
-
-  Using npm:
+    Using npm:
   
     ```bash
     npm install
@@ -88,9 +87,9 @@ Contributions are welcome! If you'd like to improve Newswala, please follow thes
     git commit -am 'Add some feature'
     ```
 4. Push the branch:
-```bash
-git push origin feature/YourFeature
-```
+    ```bash
+    git push origin feature/YourFeature
+    ```
 5. Open a pull request with a clear description of your changes.
 
 ## *Feel free to modify any section to better suit your project's needs!*
