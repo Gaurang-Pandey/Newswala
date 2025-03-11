@@ -11,8 +11,6 @@ Newswala is a modern mobile application designed to deliver the latest news upda
 
 ## Technologies Used
 
-## Technologies Used
-
 [![React Native](https://img.shields.io/badge/React_Native-React_Native-blue)](https://reactnative.dev/)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![Node.js](https://img.shields.io/badge/Node.js-Node.js-green?logo=node.js)](https://nodejs.org/)  
